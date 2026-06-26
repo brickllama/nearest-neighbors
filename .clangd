@@ -1,0 +1,2 @@
+CompileFlags:
+    Remove: [-fdeps-format=*, -fmodules-ts, -fmodule-mapper=*, module_not_found]
