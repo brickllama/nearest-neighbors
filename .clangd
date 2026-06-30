@@ -1,0 +1,5 @@
+CompileFlags:
+    Compiler: g++
+    Remove: [-fdeps-format=*, -fmodules-ts, -fmodule-mapper=*]
+Diagnostics:
+    Suppress: [module_not_found]
